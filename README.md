@@ -10,6 +10,8 @@ In this project, I had three stages:
 In my stage 1, I used the information of employees staying/leaving companies as the imperfect surrogate information for employee satisfaction. This information was also used as the predictor for two nested models, model without text comments and model without text comments. Persistently, models without text comments performed better in predicting the surrogate information of employee satisfaction:
 
 
+![Alt text](images/predictive_models.png?raw=true "Title")
+
 
 
 
