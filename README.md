@@ -1,5 +1,8 @@
 # Employee Reviews: What is new?
 
+![Alt text](images/Wordcount.png?raw=true "Title")
+
+
 As more than 70% of job seekers view company reviews on employee rating sites before applying and making a career decision, these employee ratings become tremendously important. While the overall ratings of these employee rating sites are clear, they can be misleading due to the discrepancy between text and rating scores. 
 
 In this project, I had three stages:
