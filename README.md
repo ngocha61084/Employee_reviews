@@ -1,4 +1,4 @@
-# Employee Reviews: What is new?
+# Employee Reviews: What is New?
 
 ![Alt text](images/Wordcount.png?raw=true "Title")
 
