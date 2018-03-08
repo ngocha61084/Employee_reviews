@@ -47,7 +47,7 @@ To improve the recommendation capacities, both text comments and ratings were in
 
 
 
-##Have a lovely day!
+## Have a lovely day!
 
 
 
