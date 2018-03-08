@@ -2,10 +2,13 @@
 
 ![Alt text](images/Wordcount.png?raw=true "Title")
 
+## Confidentiality
+The analysis data was published on indeed.com. Company and employee information was truncated in the "publishable folder". If you need to discuss on the raw data access, please contact me at hatran84{@}outlook.com
 
+## Project Introduction
 As more than 70% of job seekers view company reviews on employee rating sites before applying and making a career decision, these employee ratings become tremendously important. While the overall ratings of these employee rating sites are clear, they can be misleading due to the discrepancy between text and rating scores. 
 
-In this project, I had three stages:
+In this project, there are three stages:
   Stage 1 - hypothesis testing: determined if the text comments add further information into employee   satisfaction.
   Stage 2 - back-end product development: constructed a new rating scale by combining text and classical ratings.
   Stage 3 - front-end product development: developed a recommender system for each job seeker.
