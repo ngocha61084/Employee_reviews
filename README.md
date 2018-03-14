@@ -46,7 +46,6 @@ To improve the recommendation capacities, both text comments and ratings were in
 ![Alt text](images/Matrix_factorization.png?raw=true "Title")
 
 
-
 ## Have a lovely day!
 
 
